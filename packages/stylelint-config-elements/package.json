@@ -20,7 +20,7 @@
     "access": "public"
   },
   "peerDependencies": {
-    "stylelint": "^9.10.1"
+    "stylelint": "^15.10.1"
   },
   "dependencies": {
     "stylelint-config-prettier": "^4.0.0",
@@ -28,6 +28,6 @@
     "stylelint-scss": "^3.5.3"
   },
   "devDependencies": {
-    "stylelint": "^9.10.1"
+    "stylelint": "^15.10.1"
   }
 }
